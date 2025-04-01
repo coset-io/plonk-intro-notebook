@@ -28,4 +28,4 @@ The browser will popup and launch jupyter lab. You can start to explore!
 
 ## Community
 
-https://t.me/AntalphaLabs
+https://t.me/coset_io
